@@ -1,0 +1,15 @@
+The goal of lab 1 is to be able to create a list of books that you can modify by either taking books out or keeping them in. 
+input is as follows:
+n books
+title
+author
+ISBN
+. 
+. These three lines repeat n times for n books
+. 
+m books
+ISBN
+("out" or "in")
+.
+. These two lines repeat m times 
+.
